@@ -11,32 +11,33 @@
   <circle cx="75" cy="181" r="5" fill="#e6cf91"/>
   <circle cx="445" cy="181" r="5" fill="#e6cf91"/>
 
-  <!-- Rounded, backward-swept bird based closely on the keyring mark. -->
-  <g fill="#e6cf91" stroke="#102d28" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
-    <!-- long body and three-feathered tail -->
-    <path d="M333 300c-31-24-68-36-110-36H116l38 18-46 18 46 18-38 18h107c42 0 79-12 110-36Z"/>
+  <!-- Three simple pieces reproduce the original keyring bird. -->
+  <g transform="matrix(.9 0 0 .9 0 28)" fill="#e6cf91" stroke="#102d28" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <!-- broad body and stepped tail feathers -->
+    <path d="M112 272h151c47 0 81 18 91 43-10 26-44 44-91 44H112l25-22h43l-29-17h48l-34-18h42l-31-16h-39Z"/>
 
-    <!-- upper fan-shaped wing -->
-    <path d="M324 291c-27-11-50-37-61-71 35-5 75 12 101 40-17 7-30 17-40 31Z"/>
+    <!-- upper four-feather fan -->
+    <path d="M321 302c-7-29-7-63 0-96 17 0 34 7 47 19 6-15 20-12 31-2 11 9 18 22 21 38 8-12 21-7 27 4 7 14 5 31-7 46-38-9-79-10-119-9Z"/>
 
-    <!-- lower fan-shaped wing -->
-    <path d="M324 309c-27 11-50 37-61 71 35 5 75-12 101-40-17-7-30-17-40-31Z"/>
+    <!-- lower three-feather fan -->
+    <path d="M323 328c-4 30-2 61 7 91 18-2 34-10 46-23 7 14 21 10 31 0 10-11 16-24 17-39 10 10 22 3 27-9 5-14 1-30-12-43-38 13-77 19-116 23Z"/>
 
-    <!-- rounded neck and head with a small beak -->
-    <path d="M318 300c24-10 38-29 59-38 26-11 57-2 72 21l28 9-28 9c-10 25-35 40-63 36-28-4-49-18-68-37Z"/>
+    <!-- round head and breast -->
+    <path d="M349 315c19-9 31-28 48-40 22-16 55-11 70 11l19 11-20 8c-8 27-33 45-61 44-27-1-47-15-56-34Z"/>
   </g>
 
-  <!-- feather lines -->
-  <g fill="none" stroke="#102d28" stroke-width="7" stroke-linecap="round">
-    <path d="M287 231c15 8 29 20 41 35"/>
-    <path d="M307 226c15 8 29 19 41 33"/>
-    <path d="M287 369c15-8 29-20 41-35"/>
-    <path d="M307 374c15-8 29-19 41-33"/>
+  <!-- feather divisions, like the dark grooves on the keyring -->
+  <g transform="matrix(.9 0 0 .9 0 28)" fill="none" stroke="#102d28" stroke-width="6" stroke-linecap="round">
+    <path d="M328 224c22 8 42 22 57 41"/>
+    <path d="M326 244c22 7 41 20 56 38"/>
+    <path d="M325 265c18 6 34 16 47 29"/>
+    <path d="M333 399c19-9 35-23 46-40"/>
+    <path d="M330 378c18-8 33-20 44-35"/>
   </g>
-  <circle cx="418" cy="280" r="7" fill="#102d28"/>
+  <circle cx="394.2" cy="290.8" r="5.4" fill="#102d28"/>
 
   <text x="78" y="267" fill="#e6cf91" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="700" letter-spacing="7" transform="rotate(-90 78 267)">SINCE</text>
-  <text x="442" y="267" fill="#e6cf91" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="700" letter-spacing="7" transform="rotate(90 442 267)">1983</text>
+  <text x="458" y="267" fill="#e6cf91" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="700" letter-spacing="7" transform="rotate(90 458 267)">1983</text>
 
   <line x1="77" y1="426" x2="443" y2="426" stroke="#caa85d" stroke-width="2"/>
   <text x="260" y="520" fill="#e6cf91" text-anchor="middle" font-family="Arial, 'Noto Sans KR', sans-serif" font-size="91" font-weight="900" letter-spacing="-6">까치네</text>
