@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 610" role="img" aria-labelledby="title desc">
+  <title id="title">Kkatchi since 1983</title>
+  <desc id="desc">An arched dark green badge with a simple cream flying magpie and Korean and English Kkatchi lettering.</desc>
+  <path fill="#f1e4bd" d="M260 9C123 9 12 120 12 257v341h496V257C508 120 397 9 260 9Z"/>
+  <path fill="#caa85d" d="M260 17C128 17 20 125 20 257v333h480V257C500 125 392 17 260 17Z"/>
+  <path fill="#f6f0dc" d="M260 25C132 25 28 129 28 257v325h464V257C492 129 388 25 260 25Z"/>
+  <path fill="#102d28" d="M260 35C138 35 38 135 38 257v315h444V257C482 135 382 35 260 35Z"/>
+
+  <text x="260" y="92" fill="#e6cf91" text-anchor="middle" font-family="Arial, 'Noto Sans KR', sans-serif" font-size="27" font-weight="700" letter-spacing="5">추억 담긴 가게</text>
+  <text x="260" y="129" fill="#e6cf91" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="8">KKACHI</text>
+  <circle cx="75" cy="181" r="5" fill="#e6cf91"/>
+  <circle cx="445" cy="181" r="5" fill="#e6cf91"/>
+
+  <!-- Rounded, backward-swept bird based closely on the keyring mark. -->
+  <g fill="#e6cf91" stroke="#102d28" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <!-- long body and three-feathered tail -->
+    <path d="M333 300c-31-24-68-36-110-36H116l38 18-46 18 46 18-38 18h107c42 0 79-12 110-36Z"/>
+
+    <!-- upper fan-shaped wing -->
+    <path d="M324 291c-27-11-50-37-61-71 35-5 75 12 101 40-17 7-30 17-40 31Z"/>
+
+    <!-- lower fan-shaped wing -->
+    <path d="M324 309c-27 11-50 37-61 71 35 5 75-12 101-40-17-7-30-17-40-31Z"/>
+
+    <!-- rounded neck and head with a small beak -->
+    <path d="M318 300c24-10 38-29 59-38 26-11 57-2 72 21l28 9-28 9c-10 25-35 40-63 36-28-4-49-18-68-37Z"/>
+  </g>
+
+  <!-- feather lines -->
+  <g fill="none" stroke="#102d28" stroke-width="7" stroke-linecap="round">
+    <path d="M287 231c15 8 29 20 41 35"/>
+    <path d="M307 226c15 8 29 19 41 33"/>
+    <path d="M287 369c15-8 29-20 41-35"/>
+    <path d="M307 374c15-8 29-19 41-33"/>
+  </g>
+  <circle cx="418" cy="280" r="7" fill="#102d28"/>
+
+  <text x="78" y="267" fill="#e6cf91" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="700" letter-spacing="7" transform="rotate(-90 78 267)">SINCE</text>
+  <text x="442" y="267" fill="#e6cf91" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="700" letter-spacing="7" transform="rotate(90 442 267)">1983</text>
+
+  <line x1="77" y1="426" x2="443" y2="426" stroke="#caa85d" stroke-width="2"/>
+  <text x="260" y="520" fill="#e6cf91" text-anchor="middle" font-family="Arial, 'Noto Sans KR', sans-serif" font-size="91" font-weight="900" letter-spacing="-6">까치네</text>
+</svg>
