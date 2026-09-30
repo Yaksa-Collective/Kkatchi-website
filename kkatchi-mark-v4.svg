@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 610" role="img" aria-labelledby="title desc">
+  <title id="title">Kkachi since 1983</title>
+  <desc id="desc">A dark green arched badge with the original geometric gold magpie, Korean lettering, Kkachi, and since 1983.</desc>
+
+  <path fill="#f1e4bd" d="M260 9C123 9 12 120 12 257v341h496V257C508 120 397 9 260 9Z"/>
+  <path fill="#caa85d" d="M260 17C128 17 20 125 20 257v333h480V257C500 125 392 17 260 17Z"/>
+  <path fill="#f6f0dc" d="M260 25C132 25 28 129 28 257v325h464V257C492 129 388 25 260 25Z"/>
+  <path fill="#102d28" d="M260 35C138 35 38 135 38 257v315h444V257C482 135 382 35 260 35Z"/>
+
+  <!-- 까치네 as outlines, so the Korean name renders identically on every device. -->
+  <g fill="#e6cf91" transform="translate(214.6 99) scale(.03 -.03)">
+    <path d="M644 838H777V-88H644ZM736 476H897V366H736ZM189 743H313Q313 647 306.5 561Q300 475 281 397Q262 319 224.5 246.5Q187 174 126 105L22 181Q75 240 108 300Q141 360 159 425Q177 490 183 564.5Q189 639 189 728ZM63 743H241V636H63ZM444 743H569Q569 643 562.5 549.5Q556 456 537 369.5Q518 283 482 202.5Q446 122 385 47L281 120Q334 187 366 255Q398 323 415 396Q432 469 438 551Q444 633 444 729ZM345 743H499V636H345Z"/>
+    <path transform="translate(1053.3)" d="M676 838H810V-88H676ZM268 597H374V549Q374 476 357.5 404.5Q341 333 308.5 270Q276 207 227.5 158.5Q179 110 116 82L45 185Q102 210 143.5 250.5Q185 291 213 340Q241 389 254.5 443Q268 497 268 549ZM298 597H401V549Q401 500 415 448Q429 396 457 348.5Q485 301 527.5 262.5Q570 224 627 199L557 98Q493 124 444.5 171Q396 218 363 279Q330 340 314 409Q298 478 298 549ZM76 687H590V582H76ZM268 816H402V632H268Z"/>
+    <path transform="translate(2106.6)" d="M76 749H207V211H76ZM76 245H141Q224 245 298.5 250Q373 255 453 271L470 160Q387 143 308 138Q229 133 141 133H76ZM711 838H838V-88H711ZM333 545H545V438H333ZM515 822H639V-47H515Z"/>
+  </g>
+  <text x="260" y="137" fill="#e6cf91" text-anchor="middle" font-family="Arial, sans-serif" font-size="19" font-weight="700" letter-spacing="8">KKACHI</text>
+  <circle cx="75" cy="181" r="5" fill="#e6cf91"/>
+  <circle cx="445" cy="181" r="5" fill="#e6cf91"/>
+
+  <!-- Faithful vector reconstruction of the original 1983 geometric magpie. -->
+  <g transform="translate(105 164) scale(1.48)" stroke="#102d28" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Tail and body: one broad form with the original four cut-in feathers. -->
+    <path fill="#e0ad2e" stroke="none" d="M18 45h93v76H16l14-13h22v-5H39l10-10h31v-6H41l10-10h16v-6H38L28 61h23v-5H28Z"/>
+    <path fill="none" d="M28 57h24M39 73h29M42 89h39M39 105h29M27 113h25"/>
+
+    <!-- Head sits behind the two wings, as in the original mark. -->
+    <path fill="#e0ad2e" d="M166 45c25 0 41 15 41 37 0 23-16 39-40 39-13 0-25-5-34-14l7-54c8-5 17-8 26-8Z"/>
+
+    <!-- Upper and lower wings meet in the characteristic four-petal knot. -->
+    <path fill="#e0ad2e" d="M106 4c35 0 60 13 71 37-12-3-18-1-18 4 0 6 7 9 19 8-9 17-23 26-40 26-19 0-32-10-32-31Z"/>
+    <path fill="#e0ad2e" d="M138 78c19 0 34 10 40 29 6 21-2 34-17 43-14 9-32 12-55 12v-34c0-30 12-50 32-50Z"/>
+
+    <!-- The two crossing curves are the defining centre of the original bird. -->
+    <path fill="none" d="M106 47c0 18 13 32 32 32 22 0 40-11 40-27"/>
+    <path fill="none" d="M106 128c0-29 12-49 32-49 22 0 40 16 40 42"/>
+    <path fill="none" d="M106 47c0 22 14 32 32 32 0-19-12-32-32-32Z"/>
+    <path fill="none" d="M106 128c0-29 12-49 32-49 0 25-12 42-32 49Z"/>
+
+    <!-- Wing feather grooves. -->
+    <path fill="none" d="M107 15c21 2 39 10 54 24M107 27c19 2 35 9 48 21M107 39c17 2 30 8 41 18M107 52c14 2 25 7 33 16"/>
+    <path fill="none" d="M107 117c13-3 25-9 34-18M107 130c17-3 31-11 42-23M107 143c20-4 37-13 50-28M107 155c22-5 41-15 55-32"/>
+
+    <circle cx="179" cy="60" r="4.2" fill="#102d28" stroke="none"/>
+    <circle cx="179" cy="60" r="1.6" fill="#e0ad2e" stroke="none"/>
+  </g>
+
+  <text x="78" y="267" fill="#e6cf91" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="700" letter-spacing="7" transform="rotate(-90 78 267)">SINCE</text>
+  <text x="452" y="267" fill="#e6cf91" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="700" letter-spacing="7" transform="rotate(90 452 267)">1983</text>
+
+  <line x1="77" y1="434" x2="443" y2="434" stroke="#caa85d" stroke-width="2"/>
+  <text x="260" y="526" fill="#e6cf91" text-anchor="middle" font-family="Arial, sans-serif" font-size="70" font-weight="900" letter-spacing="3">KKACHI</text>
+</svg>
